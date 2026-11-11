@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:Lê Minh Quân**
 - **Lớp:HN-KS26_CNTT03**
-- **Link repository:https://github.com/anosvoligoad99-maker/HNKS26CNTT03-Nhap-Mon-CNTT-Hackathon02**
+- **Link repository:https://github.com/anosvoligoad99-maker/HNKS26CNTT03-Nhap-Mon-CNTT-Hackathon02.**
 - **Hệ điều hành (Windows/macOS):Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
